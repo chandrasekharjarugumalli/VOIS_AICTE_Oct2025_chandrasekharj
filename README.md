@@ -1,5 +1,5 @@
 # VOIS_AICTE_Oct2025_chandrasekharj
-# Airbnb Open Data Analysis
+# Airbnb Hotel Booking Analysis
 
 This project performs an exploratory data analysis (EDA) on the Airbnb Open Data dataset. The goal is to clean the data, uncover insights, and visualize patterns related to listings, pricing, host behavior, and geographical distribution in New York City.
 
